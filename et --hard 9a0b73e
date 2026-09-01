@@ -1,0 +1,69 @@
+[33m773672b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Resolved merge conflicts in Database.ts
+[33m9a0b73e[m Added as any to route links
+[33m309c83c[m Added careers screen and updated app
+[33medfd298[m Merge branch 'main' of https://github.com/u19159392-svg/IKAMVAHUB
+[33md935a88[m Added careers screen and updated app
+[33m52c1171[m task update added
+[33med18999[m Merge branch 'main' of https://github.com/u19159392-svg/IKAMVAHUB
+[33m7881247[m updated tasks screen with more schools and tasks
+[33m46935bc[m Added Careers screen with stream filters
+[33m6049a09[m Added Careers screen with stream filters
+[33m5619d73[m school details table added
+[33m847f1fb[m school details table added
+[33m7e8e69f[m Updated Schools screen and database
+[33m4929400[m Merge remote changes
+[33m550fa1d[m Updated schools screen and database
+[33m42e3107[m fix save conflict and syntax error in Database.ts, update Schooldetailsand UserSetup
+[33m4983aa3[m Added subject functions
+[33m8a4ba36[m Added subject functions
+[33m810f031[m Added subject functions
+[33m21ce70c[m added subject functions
+[33m86f09d1[m Added subject stream filter tabs
+[33ma8ded06[m fixed code error
+[33mfbd660a[m fixed merge conflict and suboject functions
+[33m2bda31e[m added subject function
+[33m455a596[m Remove merge markers from package.json
+[33m938b57f[m Resolved merge conflicts in package.json and package-lock.json
+[33m2c648fd[m Added SchoolDetails table
+[33m58f3a72[m Functions for subject and body of the email are added. The subject is set to "New User Registration" and the body contains a message welcoming the new user and providing them with their username and password.
+[33mc838b31[m Merge branch main
+[33mbdd8ba5[m Add Facilities section to School Details screen
+[33m2d4a138[m Add new files-SubjectDetails and Subjects
+[33m4afa3a4[m Merge branch 'main' of https://github.com/u19159392-svg/IKAMVAHUB
+[33mdd9dcb5[m Resolve merge conflicts
+[33me2b53bf[m  Added sports, extracurricular activities and services and facilities
+[33m7e754ef[m Merge branch 'main' of https://github.com/u19159392-svg/IKAMVAHUB
+[33mce1c052[m Added school filter UI for province, sports, extracurricular activities and facilities
+[33m713dd80[m Modified school details, database and debug file
+[33m293d151[m Add files via upload
+[33md488eb0[m Added school facilities and filtering
+[33m4c3152f[m Task 6: Fixed database schema and seeded subjects data
+[33m49435d5[m Task 6: Added Subjects Offered section with seed data
+[33m35d2272[m Task 6: Added Subjects Offered section + fixed database errors
+[33m9501e96[m Task 6: Added Subjects Offered section + fixed database errors
+[33mc88a895[m Added school facilities and filtering
+[33md2754a0[m Revert force reseed
+[33me2fa2cf[m[33m ([m[1;31morigin/master[m[33m)[m Merged latest changes from main
+[33m6073980[m Task 6: Added Subjects Offered section
+[33md587b64[m Added school details and contacts table
+[33m42e9e9f[m Add School Finder feature: schools table + seed data, getSchools/searchSchools/filterSchools functions, schools.tsx screen with search bar and type filters, and School Finder nav button
+[33m8ce0ed3[m Added Schools table, search bar, and layout fixes
+[33m2ba9370[m database.ts function
+[33m272a24d[m database.ts function
+[33m2e6b619[m Added school cards screen
+[33m51c3acd[m Add files via upload
+[33ma8899d5[m add school.tsx
+[33maaa6640[m Added User Profile Page
+[33mfbd5d10[m Merge branch 'main' of https://github.com/u19159392-svg/IKAMVAHUB
+[33m008d4f8[m add tasks
+[33mc4d66a5[m removed leftover flutter/dart code from index.tsx
+[33m2c92888[m home screen navigation
+[33m387cbc7[m Add home screen navigation
+[33mab9bcfe[m Merge branch 'main' of https://github.com/u19159392-svg/IKAMVAHUB
+[33mab648f8[m add home screen navigation
+[33mf192602[m Added user setup page
+[33m36ec25e[m added ThemeProvider for dark mode and fixed Settings screen
+[33meb4fda2[m Add settings and notifications screens with home screen buttons
+[33m89016fd[m Added all tables and CRUD functions for team
+[33m8ee1c10[m Added SQLite database with debug screen
+[33mfd1b0e0[m Initial commit
